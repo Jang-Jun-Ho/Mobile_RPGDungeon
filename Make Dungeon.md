@@ -6,7 +6,7 @@
 
   1. 방을 랜덤하게 뿌린다. 
 
-     ![map1](C:\Users\strip\Desktop\Github\던전RPG\map1.PNG)
+     ![map1](./map1.PNG)
 
      ​									          [그림 1]
 
@@ -30,7 +30,7 @@
 
      
 
-     ![map2](C:\Users\strip\Desktop\Github\던전RPG\map2.PNG)
+     ![map2](./map2.PNG)
 
      ​                                                                                     [그림 2]
 
