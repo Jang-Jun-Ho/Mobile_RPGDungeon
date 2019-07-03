@@ -6,7 +6,7 @@
 
   1. 방을 랜덤하게 뿌린다. 
 
-     ![1562145231095](C:\Users\strip\AppData\Roaming\Typora\typora-user-images\1562145231095.png)
+     ![map1](C:\Users\strip\Desktop\Github\던전RPG\map1.PNG)
 
      ​									          [그림 1]
 
@@ -30,7 +30,7 @@
 
      
 
-     ![1562155251445](C:\Users\strip\AppData\Roaming\Typora\typora-user-images\1562155251445.png)
+     ![map2](C:\Users\strip\Desktop\Github\던전RPG\map2.PNG)
 
      ​                                                                                     [그림 2]
 
